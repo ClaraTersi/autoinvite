@@ -10,3 +10,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+autoinvite/.settings/
+autoinvite/dev/repos/autoinvite/autoinvite/target/
+autoinvite/target/
+autoinvite/.project
+autoinvite/.classpath
